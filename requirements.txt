@@ -1,0 +1,13 @@
+streamlit
+opencv-python-headless
+numpy
+pygame
+sounddevice
+scipy
+google-generativeai
+SpeechRecognition
+keyboard
+pandas
+librosa
+tensorflow
+edge-tts
