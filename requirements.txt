@@ -11,3 +11,4 @@ pandas
 librosa
 tensorflow
 edge-tts
+groq
